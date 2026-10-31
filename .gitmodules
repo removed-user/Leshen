@@ -1,0 +1,3 @@
+[submodule "utmp"]
+path = utmp
+url = git://git.suckless.org/utmp
